@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cakemenu>
+  <section name="Flavor">
+    <entree>
+      <item>Brazilian Brigadeiro</item>
+      <price>11.50</price>
+    </entree>
+    <entree>
+      <item>Strawberry</item>
+      <price>12.00</price>
+    </entree>
+    <entree>
+      <item>Pistachio</item>
+      <price>13.00</price>
+    </entree>
+    <entree>
+      <item>Nutella</item>
+      <price>13.50</price>
+    </entree>
+  </section>
+  <section name="Topping">
+    <entree>
+      <item>Chocolate ganache</item>
+      <price>6.00</price>
+    </entree>
+    <entree>
+      <item>Butter cream</item>
+      <price>5.50</price>
+    </entree>
+    <entree>
+      <item>Fresh strawberries and cream</item>
+      <price>7.00</price>
+    </entree>
+  </section>
+  <section name="Filling">
+    <entree>
+      <item>Nutella and nuts</item>
+      <price>4.00</price>
+    </entree>
+    <entree>
+      <item>white chocolate</item>
+      <price>5.00</price>
+    </entree>
+    <entree>
+      <item>Bailey's cream</item>
+      <price>6.00</price>
+    </entree>
+  </section>
+</cakemenu>
